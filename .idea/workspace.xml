@@ -3,8 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="cee06dff-5750-4efa-9f38-8e7c3593627a" name="Changes" comment="even and odd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level1/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/EvenOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level1/MaxMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/MaxMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/EvenOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/EvenOdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/MaxMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/MaxMin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/sumOfDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/sumOfDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level1/Armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/Armstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level1/CheckPerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/CheckPerfectNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level1/CountNumberOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/CountNumberOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level1/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level1/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/Prime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +44,46 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EvenOdd">
+  <component name="RunManager" selected="Application.Armstrong">
+    <configuration name="Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level1.Armstrong" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckPerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level1.CheckPerfectNumber" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountNumberOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level1.CountNumberOfDigits" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Level1.EvenOdd" />
       <module name="DSA" />
@@ -52,21 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.MaxMin" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Level1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.sumOfDigits" />
+    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level1.Prime" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -80,9 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Armstrong" />
+        <item itemvalue="Application.CountNumberOfDigits" />
+        <item itemvalue="Application.CheckPerfectNumber" />
+        <item itemvalue="Application.Prime" />
         <item itemvalue="Application.EvenOdd" />
-        <item itemvalue="Application.MaxMin" />
-        <item itemvalue="Application.sumOfDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -95,6 +129,14 @@
       <option name="presentableId" value="Default" />
       <updated>1746068255686</updated>
     </task>
+    <task id="LOCAL-00001" summary="even and odd">
+      <created>1746252917721</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746252917721</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
