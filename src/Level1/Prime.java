@@ -7,12 +7,10 @@ import java.util.Stack;
 public class Prime {
     int i=0;
     public static List<Integer> checkPrime(int[] arr){
-//        Stack<Integer> stak= new Stack<>();
         List<Integer> list=new ArrayList<>();
         for(int n:arr){
            boolean x= checkNumber(n);
            if(x == true){
-//               stak.push(n);
                list.add(n);
 
            }
@@ -52,9 +50,5 @@ public class Prime {
         int low= list.stream().min(Integer::compareTo).get();
         System.out.println("small prime  is "+high);
         System.out.println("max prime  is "+ low );
-
-
-
-
     }
 }
