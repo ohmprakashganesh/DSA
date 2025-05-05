@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cee06dff-5750-4efa-9f38-8e7c3593627a" name="Changes" comment="even and odd">
+    <list default="true" id="cee06dff-5750-4efa-9f38-8e7c3593627a" name="Changes" comment="prime nmber , palindrome, armstrong , sum of digits ...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/EvenOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/EvenOdd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/MaxMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/MaxMin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/sumOfDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/sumOfDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/Armstrong.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/Armstrong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/CheckPerfectNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/CheckPerfectNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/CountNumberOfDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/CountNumberOfDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/Prime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/Prime.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Level1/Armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/Armstrong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level1/CheckPerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/CheckPerfectNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level1/CountNumberOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/CountNumberOfDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Level1/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/Palindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Level1/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/Prime.java" afterDir="false" />
     </list>
@@ -44,7 +44,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Armstrong">
+  <component name="RunManager" selected="Application.Prime">
     <configuration name="Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Level1.Armstrong" />
       <module name="DSA" />
@@ -84,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.EvenOdd" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level1.Palindrome" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prime" />
+        <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.Armstrong" />
         <item itemvalue="Application.CountNumberOfDigits" />
         <item itemvalue="Application.CheckPerfectNumber" />
-        <item itemvalue="Application.Prime" />
-        <item itemvalue="Application.EvenOdd" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1746252917721</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="prime nmber , palindrome, armstrong , sum of digits ...">
+      <created>1746267010905</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746267010905</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +159,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="even and odd" />
-    <option name="LAST_COMMIT_MESSAGE" value="even and odd" />
+    <MESSAGE value="prime nmber , palindrome, armstrong , sum of digits ..." />
+    <option name="LAST_COMMIT_MESSAGE" value="prime nmber , palindrome, armstrong , sum of digits ..." />
   </component>
 </project>

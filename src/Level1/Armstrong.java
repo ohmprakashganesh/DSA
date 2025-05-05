@@ -2,7 +2,7 @@ package Level1;
 
 import java.util.Stack;
 
-//number whose sum of square power is equal to original number
+//number whose sum of digit power is equal to original number
 public class Armstrong {
     public static  int numCheck(int num){
         int count=0;
