@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cee06dff-5750-4efa-9f38-8e7c3593627a" name="Changes" comment="modified">
+    <list default="true" id="cee06dff-5750-4efa-9f38-8e7c3593627a" name="Changes" comment="nodified 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level1/AllFactorsOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/AllFactorsOfNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level1/Armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/Armstrong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level1/StrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/StrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/AllFactorsOfNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/AllFactorsOfNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/Armstrong.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/Armstrong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/StrongNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/StrongNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/sumOfDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/sumOfDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level1/Public.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +41,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.sumOfDigits">
-    <configuration name="AllFactorsOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.AllFactorsOfNumber" />
+  <component name="RunManager" selected="Application.Spy_Number">
+    <configuration name="Automorphic_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level1_1.Automorphic_Number" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level1.*" />
+          <option name="PATTERN" value="Level1_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.Factorial" />
+    <configuration name="Harshad_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level1_1.Harshad_Number" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level1.*" />
+          <option name="PATTERN" value="Level1_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCD_hcf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.GCD_hcf" />
+    <configuration name="Neon_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level1_1.Neon_Number" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level1.*" />
+          <option name="PATTERN" value="Level1_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.StrongNumber" />
+    <configuration name="Spy_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level1_1.Spy_Number" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level1.*" />
+          <option name="PATTERN" value="Level1_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Spy_Number" />
+        <item itemvalue="Application.Neon_Number" />
+        <item itemvalue="Application.Automorphic_Number" />
+        <item itemvalue="Application.Harshad_Number" />
         <item itemvalue="Application.sumOfDigits" />
-        <item itemvalue="Application.StrongNumber" />
-        <item itemvalue="Application.AllFactorsOfNumber" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.GCD_hcf" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1746422926715</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="nodified 3">
+      <created>1746424170287</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746424170288</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +179,7 @@
     <MESSAGE value="even and odd" />
     <MESSAGE value="prime nmber , palindrome, armstrong , sum of digits ..." />
     <MESSAGE value="modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified" />
+    <MESSAGE value="nodified 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="nodified 3" />
   </component>
 </project>
