@@ -3,17 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="cee06dff-5750-4efa-9f38-8e7c3593627a" name="Changes" comment="modified">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/GCD_hcf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/GCD_hcf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/Prime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/Prime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/ReverseNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/ReverseNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/lcm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/lcm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level1/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level1/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level1/GCD_hcf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/GCD_hcf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level1/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/Prime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level1/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/ReverseNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level1/lcm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/lcm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1/Factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level1/AllFactorsOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/AllFactorsOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level1/Armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/Armstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level1/StrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/StrongNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +40,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Factorial">
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.Factorial" />
+  <component name="RunManager" selected="Application.sumOfDigits">
+    <configuration name="AllFactorsOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level1.AllFactorsOfNumber" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.Fibonacci" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level1.Factorial" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.ReverseNumber" />
+    <configuration name="StrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level1.StrongNumber" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lcm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.lcm" />
+    <configuration name="sumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level1.sumOfDigits" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sumOfDigits" />
+        <item itemvalue="Application.StrongNumber" />
+        <item itemvalue="Application.AllFactorsOfNumber" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.GCD_hcf" />
-        <item itemvalue="Application.lcm" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.ReverseNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1746408213751</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="modified">
+      <created>1746422926715</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746422926715</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

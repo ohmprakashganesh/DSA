@@ -12,6 +12,7 @@ public class Armstrong {
         }
         return  count;
     }
+
     public  static int check(int num){
        int x=0;
 //       int size=numCheck(num);

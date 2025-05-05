@@ -5,12 +5,15 @@ public class sumOfDigits {
 
     //using while loop
     int sumOfNums(int num){
-        int temp=0;
-        while(num != 0) {
-            temp += num % 10;
-            num /= 10;
+        int sum=0;
+        while (num!=0){
+            int temp= num%10;
+            sum+= temp;
+            num=num/10;
         }
-        return  temp;
+        return  sum;
+
+
     }
 
 
