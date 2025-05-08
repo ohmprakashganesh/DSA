@@ -3,7 +3,6 @@ package Level1_1;
 import java.util.Map;
 
 public class Frequency_digits {
-
     public  static void digits(int num){
         int[] frequency= new int[10];
         while(num !=0){

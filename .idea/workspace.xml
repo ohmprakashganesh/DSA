@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cee06dff-5750-4efa-9f38-8e7c3593627a" name="Changes" comment="nodified 3" />
+    <list default="true" id="cee06dff-5750-4efa-9f38-8e7c3593627a" name="Changes" comment="nodified 3">
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level1_1/Frequency_digits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level1_1/Frequency_digits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Count_Vowel_consonants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Count_Vowel_consonants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Find_longest_words.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Find_longest_words.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Frequency_of_characters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Frequency_of_characters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Lwr_Upr_conversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Lwr_Upr_conversion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Remove_all_WhiteSpaces.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Remove_all_WhiteSpaces.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Remove_deuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Remove_deuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level1_1/Frequency_digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1_1/Frequency_digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level2_String_Solution/Anagrams_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level2_String_Solution/Anagrams_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level2_String_Solution/Count_Vowel_consonants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level2_String_Solution/Count_Vowel_consonants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level2_String_Solution/Find_longest_words.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level2_String_Solution/Find_longest_words.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level2_String_Solution/Frequency_of_characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level2_String_Solution/Frequency_of_characters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level2_String_Solution/Lwr_Upr_conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level2_String_Solution/Lwr_Upr_conversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level2_String_Solution/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level2_String_Solution/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level2_String_Solution/Remove_all_WhiteSpaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level2_String_Solution/Remove_all_WhiteSpaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level2_String_Solution/Remove_deuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level2_String_Solution/Remove_deuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level2_String_Solution/Replace_Spaces_hypens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level2_String_Solution/Replace_Spaces_hypens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level2_String_Solution/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level2_String_Solution/Reverse.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,13 +56,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.sumOfDigits">
-    <configuration name="AllFactorsOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.AllFactorsOfNumber" />
+  <component name="RunManager" selected="Application.Reverse">
+    <configuration name="Find_longest_words" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level2_String_Solution.Find_longest_words" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level1.*" />
+          <option name="PATTERN" value="Level2_String_Solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -48,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.Factorial" />
+    <configuration name="Lwr_Upr_conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level2_String_Solution.Lwr_Upr_conversion" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level1.*" />
+          <option name="PATTERN" value="Level2_String_Solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCD_hcf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.GCD_hcf" />
+    <configuration name="Remove_deuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level2_String_Solution.Remove_deuplicates" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level1.*" />
+          <option name="PATTERN" value="Level2_String_Solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.StrongNumber" />
+    <configuration name="Replace_Spaces_hypens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level2_String_Solution.Replace_Spaces_hypens" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level1.*" />
+          <option name="PATTERN" value="Level2_String_Solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.sumOfDigits" />
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level2_String_Solution.Reverse" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level1.*" />
+          <option name="PATTERN" value="Level2_String_Solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sumOfDigits" />
-        <item itemvalue="Application.StrongNumber" />
-        <item itemvalue="Application.AllFactorsOfNumber" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.GCD_hcf" />
+        <item itemvalue="Application.Reverse" />
+        <item itemvalue="Application.Replace_Spaces_hypens" />
+        <item itemvalue="Application.Remove_deuplicates" />
+        <item itemvalue="Application.Lwr_Upr_conversion" />
+        <item itemvalue="Application.Find_longest_words" />
       </list>
     </recent_temporary>
   </component>
