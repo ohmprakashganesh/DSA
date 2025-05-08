@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cee06dff-5750-4efa-9f38-8e7c3593627a" name="Changes" comment="nodified 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Count_Vowel_consonants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Count_Vowel_consonants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Find_longest_words.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Find_longest_words.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Frequency_of_characters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Frequency_of_characters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Lwr_Upr_conversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Lwr_Upr_conversion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Remove_all_WhiteSpaces.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Remove_all_WhiteSpaces.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Remove_deuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Remove_deuplicates.class" afterDir="false" />
-    </list>
+    <list default="true" id="cee06dff-5750-4efa-9f38-8e7c3593627a" name="Changes" comment="nodified 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1746607156403</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="nodified 3">
+      <created>1746708303063</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746708303063</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
