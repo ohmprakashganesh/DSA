@@ -1,5 +1,6 @@
 package Level2_String_Solution;
 
+//count the number of vowels and consonents 
 public class Count_Vowel_consonants {
     public  static  int[] check(String st){
         String str=st.replaceAll("[\\s\\d]","");

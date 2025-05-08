@@ -1,8 +1,5 @@
 package Level2_String_Solution;
-
-import java.util.Arrays;
-
-//replace white spaces with $
+//remove or replace the all spaces with +
 public class Remove_all_WhiteSpaces {
     public static  void check(String arg) {
         char[] om = arg.toCharArray();

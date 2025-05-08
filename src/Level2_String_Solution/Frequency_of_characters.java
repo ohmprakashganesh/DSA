@@ -3,6 +3,7 @@ package Level2_String_Solution;
 import java.util.HashMap;
 import java.util.Map;
 
+//find the repitation of the letter that occured
 public class Frequency_of_characters {
     public  static  void check(String arg){
         char[] c= arg.toCharArray();

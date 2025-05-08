@@ -1,7 +1,4 @@
 package Level2_String_Solution;
-
-import java.util.Arrays;
-
 public class Reverse {
     public  static  void check(String ar){
         char[] ch= ar.toCharArray();

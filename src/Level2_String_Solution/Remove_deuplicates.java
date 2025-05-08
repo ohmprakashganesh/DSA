@@ -1,4 +1,5 @@
 package Level2_String_Solution;
+//remove the duplicate alphabet from the given string 
 
 import java.util.HashSet;
 import java.util.Set;

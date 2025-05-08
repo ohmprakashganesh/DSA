@@ -1,7 +1,5 @@
 package Level2_String_Solution;
-
-import java.util.Arrays;
-
+//convert lowercase to upper and upper case to lower 
 public class Lwr_Upr_conversion {
     public  static void check(String arg){
         char[] ch= arg.toCharArray();

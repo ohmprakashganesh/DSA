@@ -1,6 +1,6 @@
 package Level2_String_Solution;
 
-//strin that is same form back and forth
+//string that is same form back and forth
 
 public class Palindrome {
     public static  boolean check(String str){

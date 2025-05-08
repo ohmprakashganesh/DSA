@@ -1,5 +1,7 @@
 package Level2_String_Solution;
 
+
+//replaces the hypens and + from the string
 public class Replace_Spaces_hypens {
     public  static  void check(String str){
         int len= str.length()-1;
