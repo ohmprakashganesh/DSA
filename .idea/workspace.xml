@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cee06dff-5750-4efa-9f38-8e7c3593627a" name="Changes" comment="nodified 3" />
+    <list default="true" id="cee06dff-5750-4efa-9f38-8e7c3593627a" name="Changes" comment="nodified 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Frequency_of_characters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Frequency_of_characters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level2_String_Solution/Count_Vowel_consonants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level2_String_Solution/Count_Vowel_consonants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level2_String_Solution/Frequency_of_characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level2_String_Solution/Frequency_of_characters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level3_Arrays_solution/Remove_duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level3_Arrays_solution/Remove_duplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level3_Arrays_solution/Reverse_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level3_Arrays_solution/Reverse_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level3_Arrays_solution/Second_largest_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level3_Arrays_solution/Second_largest_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level3_Arrays_solution/Sum_of_all.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level3_Arrays_solution/Sum_of_all.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,9 +43,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrintAllDuplicateAndCounts">
-    <configuration name="Lwr_Upr_conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level2_String_Solution.Lwr_Upr_conversion" />
+  <component name="RunManager" selected="Application.Reverse_array">
+    <configuration name="Frequency_of_characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level2_String_Solution.Frequency_of_characters" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -61,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_deuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level2_String_Solution.Remove_deuplicates" />
+    <configuration name="Remove_duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level3_Arrays_solution.Remove_duplicate" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level2_String_Solution.*" />
+          <option name="PATTERN" value="Level3_Arrays_solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replace_Spaces_hypens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level2_String_Solution.Replace_Spaces_hypens" />
+    <configuration name="Reverse_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level3_Arrays_solution.Reverse_array" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level2_String_Solution.*" />
+          <option name="PATTERN" value="Level3_Arrays_solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level2_String_Solution.Reverse" />
+    <configuration name="Second_largest_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level3_Arrays_solution.Second_largest_number" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level2_String_Solution.*" />
+          <option name="PATTERN" value="Level3_Arrays_solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reverse_array" />
+        <item itemvalue="Application.Second_largest_number" />
+        <item itemvalue="Application.Remove_duplicate" />
+        <item itemvalue="Application.Frequency_of_characters" />
         <item itemvalue="Application.PrintAllDuplicateAndCounts" />
-        <item itemvalue="Application.Reverse" />
-        <item itemvalue="Application.Replace_Spaces_hypens" />
-        <item itemvalue="Application.Remove_deuplicates" />
-        <item itemvalue="Application.Lwr_Upr_conversion" />
       </list>
     </recent_temporary>
   </component>

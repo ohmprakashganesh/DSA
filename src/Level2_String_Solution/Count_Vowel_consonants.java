@@ -13,15 +13,11 @@ public class Count_Vowel_consonants {
          while (len >=0){
              char ch=arr[len];
              if(Character.isLetter(ch)) {
-
-
                  if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ||
                          ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U') {
                      count++;
-
                  } else {
                      count2++;
-
                  }
              }
              len--;
