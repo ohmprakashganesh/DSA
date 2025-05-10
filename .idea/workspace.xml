@@ -3,13 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="cee06dff-5750-4efa-9f38-8e7c3593627a" name="Changes" comment="nodified 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Frequency_of_characters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Frequency_of_characters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level2_String_Solution/Count_Vowel_consonants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level2_String_Solution/Count_Vowel_consonants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level2_String_Solution/Frequency_of_characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level2_String_Solution/Frequency_of_characters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level3_Arrays_solution/Remove_duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level3_Arrays_solution/Remove_duplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level3_Arrays_solution/Reverse_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level3_Arrays_solution/Reverse_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level3_Arrays_solution/Second_largest_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level3_Arrays_solution/Second_largest_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Anagrams_string.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/Anagrams_string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/RotationOfEachOther.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level2_String_Solution/RotationOfEachOther.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level3_Arrays_solution/Reverse_array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level3_Arrays_solution/Reverse_array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Level3_Arrays_solution/Sum_of_all.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Level3_Arrays_solution/Sum_of_all.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level2_String_Solution/Anagrams_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level2_String_Solution/Anagrams_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level2_String_Solution/RotationOfEachOther.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level2_String_Solution/RotationOfEachOther.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Level3_Arrays_solution/Sum_of_all.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level3_Arrays_solution/Sum_of_all.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level_5_pattern/Floyd_Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level_5_pattern/Floyd_Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level_5_pattern/Half_pyramid_Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level_5_pattern/Half_pyramid_Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level_5_pattern/Reverse_triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level_5_pattern/Reverse_triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level_5_pattern/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level_5_pattern/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +47,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Reverse_array">
-    <configuration name="Frequency_of_characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level2_String_Solution.Frequency_of_characters" />
+  <component name="RunManager" selected="Application.IncDecPattern">
+    <configuration name="Floyd_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level_5_pattern.Floyd_Triangle" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level2_String_Solution.*" />
+          <option name="PATTERN" value="Level_5_pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintAllDuplicateAndCounts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level2_String_Solution.PrintAllDuplicateAndCounts" />
+    <configuration name="Half_pyramid_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level_5_pattern.Half_pyramid_Triangle" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level2_String_Solution.*" />
+          <option name="PATTERN" value="Level_5_pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level3_Arrays_solution.Remove_duplicate" />
+    <configuration name="IncDecPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level_5_pattern.IncDecPattern" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level3_Arrays_solution.*" />
+          <option name="PATTERN" value="Level_5_pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level3_Arrays_solution.Reverse_array" />
+    <configuration name="Reverse_triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level_5_pattern.Reverse_triangle" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level3_Arrays_solution.*" />
+          <option name="PATTERN" value="Level_5_pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Second_largest_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level3_Arrays_solution.Second_largest_number" />
+    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level_5_pattern.Triangle" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level3_Arrays_solution.*" />
+          <option name="PATTERN" value="Level_5_pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Reverse_array" />
-        <item itemvalue="Application.Second_largest_number" />
-        <item itemvalue="Application.Remove_duplicate" />
-        <item itemvalue="Application.Frequency_of_characters" />
-        <item itemvalue="Application.PrintAllDuplicateAndCounts" />
+        <item itemvalue="Application.IncDecPattern" />
+        <item itemvalue="Application.Half_pyramid_Triangle" />
+        <item itemvalue="Application.Floyd_Triangle" />
+        <item itemvalue="Application.Reverse_triangle" />
+        <item itemvalue="Application.Triangle" />
       </list>
     </recent_temporary>
   </component>
